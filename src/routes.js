@@ -3,7 +3,7 @@ import About from "./pages/About";
 import Login from "./pages/Login";
 import UserProfile from "./pages/UserProfile";
 import ErrorPage from "./pages/ErrorPage";
-
+import App from "./App";
 const routes = [
   {
     path: "/",

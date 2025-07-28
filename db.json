@@ -1,20 +1,16 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "George Orwell"
-        }, 
-        {
-            "id": 2,
-            "name": "Zitkala-Sa"
-        }, 
-        {
-            "id": 3,
-            "name": "Ted Chiang"
-        },
-        {
-            "id": 4,
-            "name": "Isabel Allende"
-        }
-    ]
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "time": "148 min",
+      "genres": ["Action", "Sci-Fi"]
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "time": "152 min",
+      "genres": ["Action", "Drama"]
+    }
+  ]
 }
